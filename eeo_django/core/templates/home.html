@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<table>
+    <tr>
+        <th>Nome</th>
+        <th>E-mail</th>
+        <th>Idade</th>
+    </tr>
+    {% for pessoa in object_list %}
+        <tr>
+            <td>{{ pessoa.nome }}</td>
+            <td>{{ pessoa.email }}</td>
+            <td>{{ pessoa.idade }}</td>
+        </tr>
+    {% endfor %}
+</table>
+</body>
+</html>

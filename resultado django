@@ -1,0 +1,401 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1542663675199,966,get,200,OK,Grupo de Usuários 1-1,text,true,,1337088,115,32,32,http://127.0.0.1:8000/,961,0,1
+1542663676165,4,post,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-1,text,false,,2067,0,32,32,http://127.0.0.1:8000/post/,0,0,0
+1542663676170,5165,put,500,Internal Server Error,Grupo de Usuários 1-1,text,false,,106955,243,100,100,http://127.0.0.1:8000/put/,5164,0,0
+1542663681335,18,delete,200,OK,Grupo de Usuários 1-1,text,true,,248,249,100,100,http://127.0.0.1:8000/delete/,18,0,0
+1542663675231,11114,get,200,OK,Grupo de Usuários 1-2,text,true,,1337088,115,99,99,http://127.0.0.1:8000/,11113,0,1
+1542663686346,21,post,200,OK,Grupo de Usuários 1-2,text,true,,248,181,99,99,http://127.0.0.1:8000/post/,21,0,0
+1542663686367,4,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-2,text,false,,2067,0,99,99,http://127.0.0.1:8000/put/,0,0,0
+1542663686371,18,delete,200,OK,Grupo de Usuários 1-2,text,true,,248,249,99,99,http://127.0.0.1:8000/delete/,18,0,0
+1542663675717,12894,get,200,OK,Grupo de Usuários 1-18,text,true,,1337088,115,98,98,http://127.0.0.1:8000/,12886,0,0
+1542663688611,18,post,200,OK,Grupo de Usuários 1-18,text,true,,248,181,98,98,http://127.0.0.1:8000/post/,18,0,1
+1542663688629,2,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-18,text,false,,2067,0,98,98,http://127.0.0.1:8000/put/,0,0,0
+1542663688631,14,delete,200,OK,Grupo de Usuários 1-18,text,true,,248,249,98,98,http://127.0.0.1:8000/delete/,14,0,1
+1542663675476,17600,get,200,OK,Grupo de Usuários 1-10,text,true,,1337088,115,97,97,http://127.0.0.1:8000/,17594,0,2
+1542663693076,20,post,200,OK,Grupo de Usuários 1-10,text,true,,248,181,97,97,http://127.0.0.1:8000/post/,20,0,1
+1542663693096,3,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-10,text,false,,2067,0,97,97,http://127.0.0.1:8000/put/,0,0,0
+1542663693099,21,delete,200,OK,Grupo de Usuários 1-10,text,true,,248,249,97,97,http://127.0.0.1:8000/delete/,21,0,1
+1542663675351,19107,get,200,OK,Grupo de Usuários 1-6,text,true,,1337088,115,96,96,http://127.0.0.1:8000/,19102,0,1
+1542663694458,25,post,200,OK,Grupo de Usuários 1-6,text,true,,248,181,96,96,http://127.0.0.1:8000/post/,25,0,0
+1542663694483,3,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-6,text,false,,2067,0,96,96,http://127.0.0.1:8000/put/,0,0,0
+1542663694487,15,delete,200,OK,Grupo de Usuários 1-6,text,true,,248,249,96,96,http://127.0.0.1:8000/delete/,15,0,0
+1542663675628,19652,get,200,OK,Grupo de Usuários 1-15,text,true,,1337088,115,95,95,http://127.0.0.1:8000/,19646,0,0
+1542663695280,83,post,200,OK,Grupo de Usuários 1-15,text,true,,248,181,95,95,http://127.0.0.1:8000/post/,83,0,1
+1542663695363,1,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-15,text,false,,2067,0,95,95,http://127.0.0.1:8000/put/,0,0,0
+1542663695373,208,delete,200,OK,Grupo de Usuários 1-15,text,true,,248,249,95,95,http://127.0.0.1:8000/delete/,208,0,0
+1542663675385,20594,get,200,OK,Grupo de Usuários 1-7,text,true,,1337088,115,94,94,http://127.0.0.1:8000/,20589,0,0
+1542663695979,271,post,200,OK,Grupo de Usuários 1-7,text,true,,248,181,94,94,http://127.0.0.1:8000/post/,271,0,1
+1542663696251,28,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-7,text,false,,2067,0,94,94,http://127.0.0.1:8000/put/,0,0,0
+1542663696279,301,delete,200,OK,Grupo de Usuários 1-7,text,true,,248,249,94,94,http://127.0.0.1:8000/delete/,301,0,0
+1542663675535,21046,get,200,OK,Grupo de Usuários 1-12,text,true,,1337088,115,93,93,http://127.0.0.1:8000/,21041,0,0
+1542663675504,21241,get,200,OK,Grupo de Usuários 1-11,text,true,,1337088,115,93,93,http://127.0.0.1:8000/,21232,0,0
+1542663696581,168,post,200,OK,Grupo de Usuários 1-12,text,true,,248,181,93,93,http://127.0.0.1:8000/post/,168,0,1
+1542663696749,4,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-12,text,false,,2067,0,93,93,http://127.0.0.1:8000/put/,0,0,0
+1542663696746,21,post,200,OK,Grupo de Usuários 1-11,text,true,,248,181,93,93,http://127.0.0.1:8000/post/,21,0,1
+1542663696767,4,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-11,text,false,,2067,0,93,93,http://127.0.0.1:8000/put/,0,0,0
+1542663696753,194,delete,200,OK,Grupo de Usuários 1-12,text,true,,248,249,93,93,http://127.0.0.1:8000/delete/,194,0,1
+1542663696771,221,delete,200,OK,Grupo de Usuários 1-11,text,true,,248,249,92,92,http://127.0.0.1:8000/delete/,221,0,1
+1542663675778,21565,get,200,OK,Grupo de Usuários 1-20,text,true,,1337088,115,91,91,http://127.0.0.1:8000/,21556,0,1
+1542663697344,327,post,200,OK,Grupo de Usuários 1-20,text,true,,248,181,91,91,http://127.0.0.1:8000/post/,327,0,0
+1542663697671,50,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-20,text,false,,2067,0,91,91,http://127.0.0.1:8000/put/,0,0,0
+1542663697721,194,delete,200,OK,Grupo de Usuários 1-20,text,true,,248,249,91,91,http://127.0.0.1:8000/delete/,194,0,0
+1542663675596,22722,get,200,OK,Grupo de Usuários 1-14,text,true,,1337088,115,90,90,http://127.0.0.1:8000/,22718,0,1
+1542663675812,22577,get,200,OK,Grupo de Usuários 1-21,text,true,,1337088,115,90,90,http://127.0.0.1:8000/,22575,0,0
+1542663698318,167,post,200,OK,Grupo de Usuários 1-14,text,true,,248,181,90,90,http://127.0.0.1:8000/post/,167,0,1
+1542663698389,109,post,200,OK,Grupo de Usuários 1-21,text,true,,248,181,90,90,http://127.0.0.1:8000/post/,109,0,0
+1542663698485,24,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-14,text,false,,2067,0,90,90,http://127.0.0.1:8000/put/,0,0,0
+1542663698498,48,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-21,text,false,,2067,0,90,90,http://127.0.0.1:8000/put/,0,0,0
+1542663698510,178,delete,200,OK,Grupo de Usuários 1-14,text,true,,248,249,90,90,http://127.0.0.1:8000/delete/,178,0,0
+1542663675565,23144,get,200,OK,Grupo de Usuários 1-13,text,true,,1337088,115,89,89,http://127.0.0.1:8000/,23140,0,1
+1542663698546,166,delete,200,OK,Grupo de Usuários 1-21,text,true,,248,249,89,89,http://127.0.0.1:8000/delete/,166,0,0
+1542663698709,213,post,200,OK,Grupo de Usuários 1-13,text,true,,248,181,88,88,http://127.0.0.1:8000/post/,213,0,1
+1542663698923,33,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-13,text,false,,2067,0,88,88,http://127.0.0.1:8000/put/,0,0,0
+1542663698957,62,delete,200,OK,Grupo de Usuários 1-13,text,true,,248,249,88,88,http://127.0.0.1:8000/delete/,61,0,0
+1542663675998,23291,get,200,OK,Grupo de Usuários 1-27,text,true,,1337088,115,87,87,http://127.0.0.1:8000/,23283,0,1
+1542663699289,148,post,200,OK,Grupo de Usuários 1-27,text,true,,248,181,87,87,http://127.0.0.1:8000/post/,148,0,1
+1542663699437,94,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-27,text,false,,2067,0,87,87,http://127.0.0.1:8000/put/,0,0,0
+1542663699531,206,delete,200,OK,Grupo de Usuários 1-27,text,true,,248,249,87,87,http://127.0.0.1:8000/delete/,206,0,0
+1542663675663,24543,get,200,OK,Grupo de Usuários 1-16,text,true,,1337088,115,86,86,http://127.0.0.1:8000/,24539,0,1
+1542663675415,25075,get,200,OK,Grupo de Usuários 1-8,text,true,,1337088,115,86,86,http://127.0.0.1:8000/,25070,0,0
+1542663700206,310,post,200,OK,Grupo de Usuários 1-16,text,true,,248,181,86,86,http://127.0.0.1:8000/post/,310,0,1
+1542663700516,15,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-16,text,false,,2067,0,86,86,http://127.0.0.1:8000/put/,0,0,0
+1542663700490,123,post,200,OK,Grupo de Usuários 1-8,text,true,,248,181,86,86,http://127.0.0.1:8000/post/,123,0,1
+1542663700613,40,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-8,text,false,,2067,0,86,86,http://127.0.0.1:8000/put/,0,0,0
+1542663700531,162,delete,200,OK,Grupo de Usuários 1-16,text,true,,248,249,86,86,http://127.0.0.1:8000/delete/,162,0,0
+1542663675290,25406,get,200,OK,Grupo de Usuários 1-4,text,true,,1337088,115,85,85,http://127.0.0.1:8000/,25400,0,2
+1542663700696,32,post,200,OK,Grupo de Usuários 1-4,text,true,,248,181,85,85,http://127.0.0.1:8000/post/,32,0,1
+1542663700653,76,delete,200,OK,Grupo de Usuários 1-8,text,true,,248,249,85,85,http://127.0.0.1:8000/delete/,76,0,0
+1542663700728,6,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-4,text,false,,2067,0,84,84,http://127.0.0.1:8000/put/,0,0,0
+1542663700734,275,delete,200,OK,Grupo de Usuários 1-4,text,true,,248,249,84,84,http://127.0.0.1:8000/delete/,275,0,1
+1542663675747,25882,get,200,OK,Grupo de Usuários 1-19,text,true,,1337088,115,83,83,http://127.0.0.1:8000/,25875,0,1
+1542663701629,110,post,200,OK,Grupo de Usuários 1-19,text,true,,248,181,83,83,http://127.0.0.1:8000/post/,110,0,1
+1542663675446,26299,get,200,OK,Grupo de Usuários 1-9,text,true,,1337088,115,83,83,http://127.0.0.1:8000/,26294,0,1
+1542663701739,14,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-19,text,false,,2067,0,83,83,http://127.0.0.1:8000/put/,0,0,0
+1542663701746,136,post,200,OK,Grupo de Usuários 1-9,text,true,,248,181,83,83,http://127.0.0.1:8000/post/,136,0,2
+1542663701882,127,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-9,text,false,,2067,0,83,83,http://127.0.0.1:8000/put/,0,0,0
+1542663701754,279,delete,200,OK,Grupo de Usuários 1-19,text,true,,248,249,83,83,http://127.0.0.1:8000/delete/,279,0,0
+1542663702009,209,delete,200,OK,Grupo de Usuários 1-9,text,true,,248,249,82,82,http://127.0.0.1:8000/delete/,209,0,0
+1542663675321,27428,get,200,OK,Grupo de Usuários 1-5,text,true,,1337088,115,81,81,http://127.0.0.1:8000/,27420,0,0
+1542663675266,27666,get,200,OK,Grupo de Usuários 1-3,text,true,,1337088,115,81,81,http://127.0.0.1:8000/,27662,0,1
+1542663702750,227,post,200,OK,Grupo de Usuários 1-5,text,true,,248,181,81,81,http://127.0.0.1:8000/post/,227,0,0
+1542663702977,11,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-5,text,false,,2067,0,81,81,http://127.0.0.1:8000/put/,0,0,0
+1542663702932,190,post,200,OK,Grupo de Usuários 1-3,text,true,,248,181,81,81,http://127.0.0.1:8000/post/,190,0,0
+1542663703122,15,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-3,text,false,,2067,0,81,81,http://127.0.0.1:8000/put/,0,0,0
+1542663676152,26987,get,200,OK,Grupo de Usuários 1-32,text,true,,1337088,115,81,81,http://127.0.0.1:8000/,26975,0,0
+1542663702989,163,delete,200,OK,Grupo de Usuários 1-5,text,true,,248,249,81,81,http://127.0.0.1:8000/delete/,163,0,0
+1542663703138,21,delete,200,OK,Grupo de Usuários 1-3,text,true,,248,249,80,80,http://127.0.0.1:8000/delete/,21,0,1
+1542663703139,39,post,200,OK,Grupo de Usuários 1-32,text,true,,248,181,79,79,http://127.0.0.1:8000/post/,39,0,0
+1542663703179,3,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-32,text,false,,2067,0,79,79,http://127.0.0.1:8000/put/,0,0,0
+1542663703183,27,delete,200,OK,Grupo de Usuários 1-32,text,true,,248,249,79,79,http://127.0.0.1:8000/delete/,27,0,0
+1542663676063,28446,get,200,OK,Grupo de Usuários 1-29,text,true,,1337088,115,78,78,http://127.0.0.1:8000/,28437,0,0
+1542663675844,28675,get,200,OK,Grupo de Usuários 1-22,text,true,,1337088,115,78,78,http://127.0.0.1:8000/,28673,0,2
+1542663675878,28690,get,200,OK,Grupo de Usuários 1-23,text,true,,1337088,115,78,78,http://127.0.0.1:8000/,28689,0,1
+1542663704510,65,post,200,OK,Grupo de Usuários 1-29,text,true,,248,181,78,78,http://127.0.0.1:8000/post/,65,0,1
+1542663704575,15,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-29,text,false,,2067,0,78,78,http://127.0.0.1:8000/put/,0,0,0
+1542663704520,74,post,200,OK,Grupo de Usuários 1-22,text,true,,248,181,78,78,http://127.0.0.1:8000/post/,74,0,0
+1542663704594,6,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-22,text,false,,2067,0,78,78,http://127.0.0.1:8000/put/,0,0,0
+1542663704569,33,post,200,OK,Grupo de Usuários 1-23,text,true,,248,181,78,78,http://127.0.0.1:8000/post/,32,0,1
+1542663704602,4,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-23,text,false,,2067,0,78,78,http://127.0.0.1:8000/put/,0,0,0
+1542663704600,188,delete,200,OK,Grupo de Usuários 1-22,text,true,,248,249,78,78,http://127.0.0.1:8000/delete/,188,0,1
+1542663704590,240,delete,200,OK,Grupo de Usuários 1-29,text,true,,248,249,77,77,http://127.0.0.1:8000/delete/,240,0,1
+1542663704606,225,delete,200,OK,Grupo de Usuários 1-23,text,true,,248,249,76,76,http://127.0.0.1:8000/delete/,225,0,1
+1542663676090,29315,get,200,OK,Grupo de Usuários 1-30,text,true,,1337088,115,75,75,http://127.0.0.1:8000/,29310,0,0
+1542663705406,158,post,200,OK,Grupo de Usuários 1-30,text,true,,248,181,75,75,http://127.0.0.1:8000/post/,158,0,1
+1542663705565,20,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-30,text,false,,2067,0,75,75,http://127.0.0.1:8000/put/,0,0,0
+1542663675968,29626,get,200,OK,Grupo de Usuários 1-26,text,true,,1337088,115,75,75,http://127.0.0.1:8000/,29621,0,0
+1542663705587,36,delete,200,OK,Grupo de Usuários 1-30,text,true,,248,249,75,75,http://127.0.0.1:8000/delete/,36,0,0
+1542663705595,42,post,200,OK,Grupo de Usuários 1-26,text,true,,248,181,74,74,http://127.0.0.1:8000/post/,42,0,0
+1542663705637,3,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-26,text,false,,2067,0,74,74,http://127.0.0.1:8000/put/,0,0,0
+1542663705641,16,delete,200,OK,Grupo de Usuários 1-26,text,true,,248,249,74,74,http://127.0.0.1:8000/delete/,16,0,0
+1542663676120,30036,get,200,OK,Grupo de Usuários 1-31,text,true,,1337088,115,73,73,http://127.0.0.1:8000/,30027,0,1
+1542663706157,164,post,200,OK,Grupo de Usuários 1-31,text,true,,248,181,73,73,http://127.0.0.1:8000/post/,164,0,1
+1542663706321,46,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-31,text,false,,2067,0,73,73,http://127.0.0.1:8000/put/,0,0,0
+1542663706368,104,delete,200,OK,Grupo de Usuários 1-31,text,true,,248,249,73,73,http://127.0.0.1:8000/delete/,104,0,1
+1542663675908,30692,get,200,OK,Grupo de Usuários 1-24,text,true,,1337088,115,72,72,http://127.0.0.1:8000/,30689,0,3
+1542663706602,18,post,200,OK,Grupo de Usuários 1-24,text,true,,248,181,72,72,http://127.0.0.1:8000/post/,18,0,0
+1542663706620,4,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-24,text,false,,2067,0,72,72,http://127.0.0.1:8000/put/,0,0,0
+1542663706624,33,delete,200,OK,Grupo de Usuários 1-24,text,true,,248,249,72,72,http://127.0.0.1:8000/delete/,33,0,0
+1542663675687,31917,get,200,OK,Grupo de Usuários 1-17,text,true,,1337088,115,71,71,http://127.0.0.1:8000/,31913,0,2
+1542663707605,153,post,200,OK,Grupo de Usuários 1-17,text,true,,248,181,71,71,http://127.0.0.1:8000/post/,153,0,1
+1542663707758,4,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-17,text,false,,2067,0,71,71,http://127.0.0.1:8000/put/,0,0,0
+1542663676197,31565,get,200,OK,Grupo de Usuários 1-33,text,true,,1337088,115,71,71,http://127.0.0.1:8000/,31561,0,1
+1542663707762,21,delete,200,OK,Grupo de Usuários 1-17,text,true,,248,249,71,71,http://127.0.0.1:8000/delete/,21,0,1
+1542663707763,27,post,200,OK,Grupo de Usuários 1-33,text,true,,248,181,70,70,http://127.0.0.1:8000/post/,27,0,0
+1542663707790,15,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-33,text,false,,2067,0,70,70,http://127.0.0.1:8000/put/,0,0,0
+1542663707806,89,delete,200,OK,Grupo de Usuários 1-33,text,true,,248,249,70,70,http://127.0.0.1:8000/delete/,89,0,0
+1542663675938,32394,get,200,OK,Grupo de Usuários 1-25,text,true,,1337088,115,69,69,http://127.0.0.1:8000/,32391,0,0
+1542663708334,25,post,200,OK,Grupo de Usuários 1-25,text,true,,248,181,69,69,http://127.0.0.1:8000/post/,25,0,0
+1542663708360,2,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-25,text,false,,2067,0,69,69,http://127.0.0.1:8000/put/,0,0,0
+1542663708363,16,delete,200,OK,Grupo de Usuários 1-25,text,true,,248,249,69,69,http://127.0.0.1:8000/delete/,15,0,0
+1542663676030,32852,get,200,OK,Grupo de Usuários 1-28,text,true,,1337088,115,68,68,http://127.0.0.1:8000/,32848,0,1
+1542663708883,20,post,200,OK,Grupo de Usuários 1-28,text,true,,248,181,68,68,http://127.0.0.1:8000/post/,20,0,1
+1542663708903,8,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-28,text,false,,2067,0,68,68,http://127.0.0.1:8000/put/,0,0,0
+1542663708911,14,delete,200,OK,Grupo de Usuários 1-28,text,true,,248,249,68,68,http://127.0.0.1:8000/delete/,14,0,1
+1542663676853,37492,get,200,OK,Grupo de Usuários 1-54,text,true,,1337088,115,67,67,http://127.0.0.1:8000/,37489,0,1
+1542663714345,14,post,200,OK,Grupo de Usuários 1-54,text,true,,248,181,67,67,http://127.0.0.1:8000/post/,14,0,1
+1542663714359,3,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-54,text,false,,2067,0,67,67,http://127.0.0.1:8000/put/,0,0,0
+1542663714362,15,delete,200,OK,Grupo de Usuários 1-54,text,true,,248,249,67,67,http://127.0.0.1:8000/delete/,15,0,0
+1542663676259,38627,get,200,OK,Grupo de Usuários 1-35,text,true,,1337088,115,66,66,http://127.0.0.1:8000/,38624,0,2
+1542663714886,19,post,200,OK,Grupo de Usuários 1-35,text,true,,248,181,66,66,http://127.0.0.1:8000/post/,19,0,0
+1542663714905,3,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-35,text,false,,2067,0,66,66,http://127.0.0.1:8000/put/,0,0,0
+1542663714908,14,delete,200,OK,Grupo de Usuários 1-35,text,true,,248,249,66,66,http://127.0.0.1:8000/delete/,14,0,0
+1542663677929,38052,get,200,OK,Grupo de Usuários 1-87,text,true,,1337088,115,65,65,http://127.0.0.1:8000/,38049,0,0
+1542663715981,19,post,200,OK,Grupo de Usuários 1-87,text,true,,248,181,65,65,http://127.0.0.1:8000/post/,19,0,1
+1542663716000,2,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-87,text,false,,2067,0,65,65,http://127.0.0.1:8000/put/,0,0,0
+1542663716002,17,delete,200,OK,Grupo de Usuários 1-87,text,true,,248,249,65,65,http://127.0.0.1:8000/delete/,16,0,0
+1542663678209,38587,get,200,OK,Grupo de Usuários 1-96,text,true,,1337088,115,64,64,http://127.0.0.1:8000/,38583,0,0
+1542663677340,39570,get,200,OK,Grupo de Usuários 1-69,text,true,,1337088,115,64,64,http://127.0.0.1:8000/,39566,0,0
+1542663716796,121,post,200,OK,Grupo de Usuários 1-96,text,true,,248,181,64,64,http://127.0.0.1:8000/post/,121,0,1
+1542663716918,6,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-96,text,false,,2067,0,64,64,http://127.0.0.1:8000/put/,0,0,0
+1542663716910,29,post,200,OK,Grupo de Usuários 1-69,text,true,,248,181,64,64,http://127.0.0.1:8000/post/,29,0,0
+1542663716939,142,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-69,text,false,,2067,0,64,64,http://127.0.0.1:8000/put/,0,0,0
+1542663716924,283,delete,200,OK,Grupo de Usuários 1-96,text,true,,248,249,64,64,http://127.0.0.1:8000/delete/,283,0,1
+1542663717081,126,delete,200,OK,Grupo de Usuários 1-69,text,true,,248,249,64,64,http://127.0.0.1:8000/delete/,126,0,0
+1542663678086,39566,get,200,OK,Grupo de Usuários 1-92,text,true,,1337088,115,62,62,http://127.0.0.1:8000/,39563,0,0
+1542663717652,154,post,200,OK,Grupo de Usuários 1-92,text,true,,248,181,62,62,http://127.0.0.1:8000/post/,154,0,1
+1542663717806,38,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-92,text,false,,2067,0,62,62,http://127.0.0.1:8000/put/,0,0,0
+1542663676451,41433,get,200,OK,Grupo de Usuários 1-41,text,true,,1337088,115,62,62,http://127.0.0.1:8000/,41423,0,0
+1542663717845,47,delete,200,OK,Grupo de Usuários 1-92,text,true,,248,249,62,62,http://127.0.0.1:8000/delete/,47,0,0
+1542663717884,22,post,200,OK,Grupo de Usuários 1-41,text,true,,248,181,61,61,http://127.0.0.1:8000/post/,22,0,0
+1542663717906,1,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-41,text,false,,2067,0,61,61,http://127.0.0.1:8000/put/,0,0,0
+1542663717908,11,delete,200,OK,Grupo de Usuários 1-41,text,true,,248,249,61,61,http://127.0.0.1:8000/delete/,11,0,0
+1542663677372,41129,get,200,OK,Grupo de Usuários 1-70,text,true,,1337088,115,60,60,http://127.0.0.1:8000/,41126,0,0
+1542663718501,80,post,200,OK,Grupo de Usuários 1-70,text,true,,248,181,60,60,http://127.0.0.1:8000/post/,80,0,1
+1542663718582,55,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-70,text,false,,2067,0,60,60,http://127.0.0.1:8000/put/,0,0,0
+1542663718638,89,delete,200,OK,Grupo de Usuários 1-70,text,true,,248,249,60,60,http://127.0.0.1:8000/delete/,89,0,0
+1542663677245,41671,get,200,OK,Grupo de Usuários 1-66,text,true,,1337088,115,59,59,http://127.0.0.1:8000/,41666,0,1
+1542663718916,23,post,200,OK,Grupo de Usuários 1-66,text,true,,248,181,59,59,http://127.0.0.1:8000/post/,23,0,1
+1542663718939,1,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-66,text,false,,2067,0,59,59,http://127.0.0.1:8000/put/,0,0,0
+1542663718941,34,delete,200,OK,Grupo de Usuários 1-66,text,true,,248,249,59,59,http://127.0.0.1:8000/delete/,34,0,0
+1542663676322,43447,get,200,OK,Grupo de Usuários 1-37,text,true,,1337088,115,58,58,http://127.0.0.1:8000/,43444,0,1
+1542663719770,14,post,200,OK,Grupo de Usuários 1-37,text,true,,248,181,58,58,http://127.0.0.1:8000/post/,14,0,0
+1542663719784,9,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-37,text,false,,2067,0,58,58,http://127.0.0.1:8000/put/,0,0,0
+1542663719793,14,delete,200,OK,Grupo de Usuários 1-37,text,true,,248,249,58,58,http://127.0.0.1:8000/delete/,14,0,0
+1542663677895,42647,get,200,OK,Grupo de Usuários 1-86,text,true,,1337088,115,57,57,http://127.0.0.1:8000/,42642,0,1
+1542663720542,157,post,200,OK,Grupo de Usuários 1-86,text,true,,248,181,57,57,http://127.0.0.1:8000/post/,157,0,1
+1542663720700,28,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-86,text,false,,2067,0,57,57,http://127.0.0.1:8000/put/,0,0,0
+1542663677209,43545,get,200,OK,Grupo de Usuários 1-65,text,true,,1337088,115,57,57,http://127.0.0.1:8000/,43541,0,0
+1542663720728,48,delete,200,OK,Grupo de Usuários 1-86,text,true,,248,249,57,57,http://127.0.0.1:8000/delete/,48,0,1
+1542663720754,25,post,200,OK,Grupo de Usuários 1-65,text,true,,248,181,56,56,http://127.0.0.1:8000/post/,25,0,1
+1542663720779,8,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-65,text,false,,2067,0,56,56,http://127.0.0.1:8000/put/,0,0,0
+1542663720788,13,delete,200,OK,Grupo de Usuários 1-65,text,true,,248,249,56,56,http://127.0.0.1:8000/delete/,13,0,1
+1542663677040,44338,get,200,OK,Grupo de Usuários 1-60,text,true,,1337088,115,55,55,http://127.0.0.1:8000/,44331,0,1
+1542663721378,13,post,200,OK,Grupo de Usuários 1-60,text,true,,248,181,55,55,http://127.0.0.1:8000/post/,13,0,0
+1542663721391,3,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-60,text,false,,2067,0,55,55,http://127.0.0.1:8000/put/,0,0,0
+1542663721395,13,delete,200,OK,Grupo de Usuários 1-60,text,true,,248,249,55,55,http://127.0.0.1:8000/delete/,13,0,2
+1542663676916,45032,get,200,OK,Grupo de Usuários 1-56,text,true,,1337088,115,54,54,http://127.0.0.1:8000/,45025,0,0
+1542663721949,13,post,200,OK,Grupo de Usuários 1-56,text,true,,248,181,54,54,http://127.0.0.1:8000/post/,13,0,0
+1542663721962,2,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-56,text,false,,2067,0,54,54,http://127.0.0.1:8000/put/,0,0,0
+1542663721964,12,delete,200,OK,Grupo de Usuários 1-56,text,true,,248,249,54,54,http://127.0.0.1:8000/delete/,12,0,0
+1542663677673,44912,get,200,OK,Grupo de Usuários 1-79,text,true,,1337088,115,53,53,http://127.0.0.1:8000/,44908,0,0
+1542663722585,15,post,200,OK,Grupo de Usuários 1-79,text,true,,248,181,53,53,http://127.0.0.1:8000/post/,15,0,0
+1542663722601,2,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-79,text,false,,2067,0,53,53,http://127.0.0.1:8000/put/,0,0,0
+1542663722603,173,delete,200,OK,Grupo de Usuários 1-79,text,true,,248,249,53,53,http://127.0.0.1:8000/delete/,173,0,0
+1542663677642,45431,get,200,OK,Grupo de Usuários 1-78,text,true,,1337088,115,52,52,http://127.0.0.1:8000/,45428,0,1
+1542663723074,17,post,200,OK,Grupo de Usuários 1-78,text,true,,248,181,52,52,http://127.0.0.1:8000/post/,17,0,0
+1542663723091,26,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-78,text,false,,2067,0,52,52,http://127.0.0.1:8000/put/,0,0,0
+1542663723118,200,delete,200,OK,Grupo de Usuários 1-78,text,true,,248,249,52,52,http://127.0.0.1:8000/delete/,200,0,0
+1542663677831,45759,get,200,OK,Grupo de Usuários 1-84,text,true,,1337088,115,51,51,http://127.0.0.1:8000/,45753,0,1
+1542663723590,15,post,200,OK,Grupo de Usuários 1-84,text,true,,248,181,51,51,http://127.0.0.1:8000/post/,15,0,0
+1542663723605,1,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-84,text,false,,2067,0,51,51,http://127.0.0.1:8000/put/,0,0,0
+1542663723606,19,delete,200,OK,Grupo de Usuários 1-84,text,true,,248,249,51,51,http://127.0.0.1:8000/delete/,19,0,0
+1542663677995,46158,get,200,OK,Grupo de Usuários 1-89,text,true,,1337088,115,50,50,http://127.0.0.1:8000/,46155,0,0
+1542663724153,15,post,200,OK,Grupo de Usuários 1-89,text,true,,248,181,50,50,http://127.0.0.1:8000/post/,15,0,1
+1542663724168,2,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-89,text,false,,2067,0,50,50,http://127.0.0.1:8000/put/,0,0,0
+1542663724170,145,delete,200,OK,Grupo de Usuários 1-89,text,true,,248,249,50,50,http://127.0.0.1:8000/delete/,145,0,0
+1542663676511,48070,get,200,OK,Grupo de Usuários 1-43,text,true,,1337088,115,49,49,http://127.0.0.1:8000/,48067,0,0
+1542663724581,31,post,200,OK,Grupo de Usuários 1-43,text,true,,248,181,49,49,http://127.0.0.1:8000/post/,31,0,1
+1542663724612,2,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-43,text,false,,2067,0,49,49,http://127.0.0.1:8000/put/,0,0,0
+1542663724615,9,delete,200,OK,Grupo de Usuários 1-43,text,true,,248,249,49,49,http://127.0.0.1:8000/delete/,9,0,0
+1542663676231,48866,get,200,OK,Grupo de Usuários 1-34,text,true,,1337088,115,48,48,http://127.0.0.1:8000/,48863,0,1
+1542663725097,27,post,200,OK,Grupo de Usuários 1-34,text,true,,248,181,48,48,http://127.0.0.1:8000/post/,26,0,0
+1542663725124,19,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-34,text,false,,2067,0,48,48,http://127.0.0.1:8000/put/,0,0,0
+1542663725143,217,delete,200,OK,Grupo de Usuários 1-34,text,true,,248,249,48,48,http://127.0.0.1:8000/delete/,217,0,1
+1542663676290,49291,get,200,OK,Grupo de Usuários 1-36,text,true,,1337088,115,47,47,http://127.0.0.1:8000/,49282,0,1
+1542663725581,14,post,200,OK,Grupo de Usuários 1-36,text,true,,248,181,47,47,http://127.0.0.1:8000/post/,14,0,0
+1542663725595,3,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-36,text,false,,2067,0,47,47,http://127.0.0.1:8000/put/,0,0,0
+1542663725598,14,delete,200,OK,Grupo de Usuários 1-36,text,true,,248,249,47,47,http://127.0.0.1:8000/delete/,13,0,1
+1542663676635,49484,get,200,OK,Grupo de Usuários 1-47,text,true,,1337088,115,46,46,http://127.0.0.1:8000/,49472,0,1
+1542663726120,17,post,200,OK,Grupo de Usuários 1-47,text,true,,248,181,46,46,http://127.0.0.1:8000/post/,17,0,0
+1542663726137,2,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-47,text,false,,2067,0,46,46,http://127.0.0.1:8000/put/,0,0,0
+1542663726139,13,delete,200,OK,Grupo de Usuários 1-47,text,true,,248,249,46,46,http://127.0.0.1:8000/delete/,13,0,0
+1542663676724,49854,get,200,OK,Grupo de Usuários 1-50,text,true,,1337088,115,45,45,http://127.0.0.1:8000/,49850,0,1
+1542663726578,182,post,200,OK,Grupo de Usuários 1-50,text,true,,248,181,45,45,http://127.0.0.1:8000/post/,182,0,0
+1542663726760,27,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-50,text,false,,2067,0,45,45,http://127.0.0.1:8000/put/,0,0,0
+1542663726787,139,delete,200,OK,Grupo de Usuários 1-50,text,true,,248,249,45,45,http://127.0.0.1:8000/delete/,139,0,0
+1542663678147,48897,get,200,OK,Grupo de Usuários 1-94,text,true,,1337088,115,44,44,http://127.0.0.1:8000/,48894,0,0
+1542663727045,13,post,200,OK,Grupo de Usuários 1-94,text,true,,248,181,44,44,http://127.0.0.1:8000/post/,13,0,0
+1542663727058,2,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-94,text,false,,2067,0,44,44,http://127.0.0.1:8000/put/,0,0,0
+1542663727061,180,delete,200,OK,Grupo de Usuários 1-94,text,true,,248,249,44,44,http://127.0.0.1:8000/delete/,180,0,0
+1542663678118,49550,get,200,OK,Grupo de Usuários 1-93,text,true,,1337088,115,43,43,http://127.0.0.1:8000/,49546,0,0
+1542663727668,225,post,200,OK,Grupo de Usuários 1-93,text,true,,248,181,43,43,http://127.0.0.1:8000/post/,224,0,0
+1542663727893,42,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-93,text,false,,2067,0,43,43,http://127.0.0.1:8000/put/,0,0,0
+1542663676887,51108,get,200,OK,Grupo de Usuários 1-55,text,true,,1337088,115,43,43,http://127.0.0.1:8000/,51107,0,0
+1542663727935,68,delete,200,OK,Grupo de Usuários 1-93,text,true,,248,249,43,43,http://127.0.0.1:8000/delete/,68,0,0
+1542663727995,14,post,200,OK,Grupo de Usuários 1-55,text,true,,248,181,42,42,http://127.0.0.1:8000/post/,14,0,1
+1542663728009,3,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-55,text,false,,2067,0,42,42,http://127.0.0.1:8000/put/,0,0,0
+1542663728013,8,delete,200,OK,Grupo de Usuários 1-55,text,true,,248,249,42,42,http://127.0.0.1:8000/delete/,8,0,0
+1542663677607,50806,get,200,OK,Grupo de Usuários 1-77,text,true,,1337088,115,41,41,http://127.0.0.1:8000/,50805,0,1
+1542663728413,134,post,200,OK,Grupo de Usuários 1-77,text,true,,248,181,41,41,http://127.0.0.1:8000/post/,134,0,0
+1542663728547,11,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-77,text,false,,2067,0,41,41,http://127.0.0.1:8000/put/,0,0,0
+1542663728559,106,delete,200,OK,Grupo de Usuários 1-77,text,true,,248,249,41,41,http://127.0.0.1:8000/delete/,106,0,0
+1542663677143,51739,get,200,OK,Grupo de Usuários 1-63,text,true,,1337088,115,40,40,http://127.0.0.1:8000/,51733,0,0
+1542663728883,10,post,200,OK,Grupo de Usuários 1-63,text,true,,248,181,40,40,http://127.0.0.1:8000/post/,10,0,0
+1542663728893,1,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-63,text,false,,2067,0,40,40,http://127.0.0.1:8000/put/,0,0,0
+1542663728894,8,delete,200,OK,Grupo de Usuários 1-63,text,true,,248,249,40,40,http://127.0.0.1:8000/delete/,8,0,0
+1542663676572,52765,get,200,OK,Grupo de Usuários 1-45,text,true,,1337088,115,39,39,http://127.0.0.1:8000/,52763,0,0
+1542663729337,41,post,200,OK,Grupo de Usuários 1-45,text,true,,248,181,39,39,http://127.0.0.1:8000/post/,41,0,0
+1542663729378,61,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-45,text,false,,2067,0,39,39,http://127.0.0.1:8000/put/,0,0,0
+1542663729439,189,delete,200,OK,Grupo de Usuários 1-45,text,true,,248,249,39,39,http://127.0.0.1:8000/delete/,188,0,1
+1542663676665,53115,get,200,OK,Grupo de Usuários 1-48,text,true,,1337088,115,38,38,http://127.0.0.1:8000/,53114,0,2
+1542663729780,11,post,200,OK,Grupo de Usuários 1-48,text,true,,248,181,38,38,http://127.0.0.1:8000/post/,11,0,1
+1542663729791,1,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-48,text,false,,2067,0,38,38,http://127.0.0.1:8000/put/,0,0,0
+1542663729792,7,delete,200,OK,Grupo de Usuários 1-48,text,true,,248,249,38,38,http://127.0.0.1:8000/delete/,7,0,1
+1542663676354,54516,get,200,OK,Grupo de Usuários 1-38,text,true,,1337088,115,37,37,http://127.0.0.1:8000/,54515,0,0
+1542663678056,53089,get,200,OK,Grupo de Usuários 1-91,text,true,,1337088,115,37,37,http://127.0.0.1:8000/,53088,0,0
+1542663730870,396,post,200,OK,Grupo de Usuários 1-38,text,true,,248,181,37,37,http://127.0.0.1:8000/post/,396,0,1
+1542663731266,70,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-38,text,false,,2067,0,37,37,http://127.0.0.1:8000/put/,0,0,0
+1542663731146,342,post,200,OK,Grupo de Usuários 1-91,text,true,,248,181,37,37,http://127.0.0.1:8000/post/,342,0,0
+1542663676947,54661,get,200,OK,Grupo de Usuários 1-57,text,true,,1337088,115,37,37,http://127.0.0.1:8000/,54656,0,0
+1542663731488,261,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-91,text,false,,2067,0,37,37,http://127.0.0.1:8000/put/,0,0,0
+1542663676385,55374,get,200,OK,Grupo de Usuários 1-39,text,true,,1337088,115,37,37,http://127.0.0.1:8000/,55370,0,0
+1542663731336,446,delete,200,OK,Grupo de Usuários 1-38,text,true,,248,249,37,37,http://127.0.0.1:8000/delete/,446,0,0
+1542663731749,433,delete,200,OK,Grupo de Usuários 1-91,text,true,,248,249,36,36,http://127.0.0.1:8000/delete/,433,0,0
+1542663731608,771,post,200,OK,Grupo de Usuários 1-57,text,true,,248,181,35,35,http://127.0.0.1:8000/post/,771,0,1
+1542663731760,641,post,200,OK,Grupo de Usuários 1-39,text,true,,248,181,35,35,http://127.0.0.1:8000/post/,641,0,0
+1542663732380,65,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-57,text,false,,2067,0,35,35,http://127.0.0.1:8000/put/,0,0,0
+1542663732402,152,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-39,text,false,,2067,0,35,35,http://127.0.0.1:8000/put/,0,0,0
+1542663676605,55993,get,200,OK,Grupo de Usuários 1-46,text,true,,1337088,115,35,35,http://127.0.0.1:8000/,55991,0,0
+1542663677010,55590,get,200,OK,Grupo de Usuários 1-59,text,true,,1337088,115,35,35,http://127.0.0.1:8000/,55588,0,0
+1542663732445,185,delete,200,OK,Grupo de Usuários 1-57,text,true,,248,249,35,35,http://127.0.0.1:8000/delete/,185,0,0
+1542663732554,124,delete,200,OK,Grupo de Usuários 1-39,text,true,,248,249,34,34,http://127.0.0.1:8000/delete/,124,0,0
+1542663732598,110,post,200,OK,Grupo de Usuários 1-46,text,true,,248,181,33,33,http://127.0.0.1:8000/post/,110,0,0
+1542663732708,20,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-46,text,false,,2067,0,33,33,http://127.0.0.1:8000/put/,0,0,0
+1542663732600,152,post,200,OK,Grupo de Usuários 1-59,text,true,,248,181,33,33,http://127.0.0.1:8000/post/,152,0,0
+1542663732752,40,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-59,text,false,,2067,0,33,33,http://127.0.0.1:8000/put/,0,0,0
+1542663677861,54964,get,200,OK,Grupo de Usuários 1-85,text,true,,1337088,115,33,33,http://127.0.0.1:8000/,54963,0,0
+1542663732728,100,delete,200,OK,Grupo de Usuários 1-46,text,true,,248,249,33,33,http://127.0.0.1:8000/delete/,100,0,1
+1542663732792,41,delete,200,OK,Grupo de Usuários 1-59,text,true,,248,249,32,32,http://127.0.0.1:8000/delete/,41,0,0
+1542663732825,42,post,200,OK,Grupo de Usuários 1-85,text,true,,248,181,31,31,http://127.0.0.1:8000/post/,42,0,0
+1542663732867,11,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-85,text,false,,2067,0,31,31,http://127.0.0.1:8000/put/,0,0,0
+1542663732878,216,delete,200,OK,Grupo de Usuários 1-85,text,true,,248,249,31,31,http://127.0.0.1:8000/delete/,216,0,0
+1542663677741,56350,get,200,OK,Grupo de Usuários 1-81,text,true,,1337088,115,30,30,http://127.0.0.1:8000/,56345,0,2
+1542663734091,264,post,200,OK,Grupo de Usuários 1-81,text,true,,248,181,30,30,http://127.0.0.1:8000/post/,264,0,0
+1542663734355,42,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-81,text,false,,2067,0,30,30,http://127.0.0.1:8000/put/,0,0,0
+1542663676755,57744,get,200,OK,Grupo de Usuários 1-51,text,true,,1337088,115,30,30,http://127.0.0.1:8000/,57742,0,0
+1542663734397,216,delete,200,OK,Grupo de Usuários 1-81,text,true,,248,249,30,30,http://127.0.0.1:8000/delete/,216,0,0
+1542663677437,57322,get,200,OK,Grupo de Usuários 1-72,text,true,,1337088,115,29,29,http://127.0.0.1:8000/,57321,0,1
+1542663734499,464,post,200,OK,Grupo de Usuários 1-51,text,true,,248,181,29,29,http://127.0.0.1:8000/post/,464,0,1
+1542663734963,21,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-51,text,false,,2067,0,29,29,http://127.0.0.1:8000/put/,0,0,0
+1542663677275,57868,get,200,OK,Grupo de Usuários 1-67,text,true,,1337088,115,29,29,http://127.0.0.1:8000/,57866,0,1
+1542663678301,56872,get,200,OK,Grupo de Usuários 1-99,text,true,,1337088,115,29,29,http://127.0.0.1:8000/,56871,0,1
+1542663734760,449,post,200,OK,Grupo de Usuários 1-72,text,true,,248,181,29,29,http://127.0.0.1:8000/post/,449,0,0
+1542663735209,15,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-72,text,false,,2067,0,29,29,http://127.0.0.1:8000/put/,0,0,0
+1542663734984,268,delete,200,OK,Grupo de Usuários 1-51,text,true,,248,249,29,29,http://127.0.0.1:8000/delete/,268,0,0
+1542663735143,289,post,200,OK,Grupo de Usuários 1-67,text,true,,248,181,28,28,http://127.0.0.1:8000/post/,289,0,0
+1542663735173,340,post,200,OK,Grupo de Usuários 1-99,text,true,,248,181,28,28,http://127.0.0.1:8000/post/,340,0,1
+1542663735433,85,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-67,text,false,,2067,0,28,28,http://127.0.0.1:8000/put/,0,0,0
+1542663735224,420,delete,200,OK,Grupo de Usuários 1-72,text,true,,248,249,28,28,http://127.0.0.1:8000/delete/,420,0,0
+1542663735513,168,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-99,text,false,,2067,0,27,27,http://127.0.0.1:8000/put/,0,0,0
+1542663677175,58679,get,200,OK,Grupo de Usuários 1-64,text,true,,1337088,115,27,27,http://127.0.0.1:8000/,58678,0,0
+1542663735518,394,delete,200,OK,Grupo de Usuários 1-67,text,true,,248,249,27,27,http://127.0.0.1:8000/delete/,394,0,1
+1542663735681,331,delete,200,OK,Grupo de Usuários 1-99,text,true,,248,249,26,26,http://127.0.0.1:8000/delete/,331,0,1
+1542663735855,163,post,200,OK,Grupo de Usuários 1-64,text,true,,248,181,25,25,http://127.0.0.1:8000/post/,163,0,0
+1542663736018,93,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-64,text,false,,2067,0,25,25,http://127.0.0.1:8000/put/,0,0,0
+1542663736111,401,delete,200,OK,Grupo de Usuários 1-64,text,true,,248,249,25,25,http://127.0.0.1:8000/delete/,401,0,0
+1542663676820,59705,get,200,OK,Grupo de Usuários 1-53,text,true,,1337088,115,24,24,http://127.0.0.1:8000/,59703,0,0
+1542663676480,60185,get,200,OK,Grupo de Usuários 1-42,text,true,,1337088,115,24,24,http://127.0.0.1:8000/,60184,0,1
+1542663736525,219,post,200,OK,Grupo de Usuários 1-53,text,true,,248,181,24,24,http://127.0.0.1:8000/post/,219,0,0
+1542663736744,26,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-53,text,false,,2067,0,24,24,http://127.0.0.1:8000/put/,0,0,0
+1542663736666,388,post,200,OK,Grupo de Usuários 1-42,text,true,,248,181,24,24,http://127.0.0.1:8000/post/,388,0,0
+1542663737054,77,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-42,text,false,,2067,0,24,24,http://127.0.0.1:8000/put/,0,0,0
+1542663736770,473,delete,200,OK,Grupo de Usuários 1-53,text,true,,248,249,24,24,http://127.0.0.1:8000/delete/,473,0,1
+1542663678178,59275,get,200,OK,Grupo de Usuários 1-95,text,true,,1337088,115,23,23,http://127.0.0.1:8000/,59272,0,1
+1542663737131,446,delete,200,OK,Grupo de Usuários 1-42,text,true,,248,249,23,23,http://127.0.0.1:8000/delete/,446,0,0
+1542663678271,59759,get,200,OK,Grupo de Usuários 1-98,text,true,,1337088,115,22,22,http://127.0.0.1:8000/,59756,0,0
+1542663737453,634,post,200,OK,Grupo de Usuários 1-95,text,true,,248,181,22,22,http://127.0.0.1:8000/post/,634,0,0
+1542663738087,37,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-95,text,false,,2067,0,22,22,http://127.0.0.1:8000/put/,0,0,0
+1542663676694,61466,get,200,OK,Grupo de Usuários 1-49,text,true,,1337088,115,22,22,http://127.0.0.1:8000/,61461,0,0
+1542663738030,400,post,200,OK,Grupo de Usuários 1-98,text,true,,248,181,22,22,http://127.0.0.1:8000/post/,399,0,0
+1542663738430,0,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-98,text,false,,2067,0,22,22,http://127.0.0.1:8000/put/,0,0,0
+1542663738124,646,delete,200,OK,Grupo de Usuários 1-95,text,true,,248,249,22,22,http://127.0.0.1:8000/delete/,646,0,1
+1542663677571,61357,get,200,OK,Grupo de Usuários 1-76,text,true,,1337088,115,21,21,http://127.0.0.1:8000/,61355,0,1
+1542663738431,528,delete,200,OK,Grupo de Usuários 1-98,text,true,,248,249,21,21,http://127.0.0.1:8000/delete/,528,0,0
+1542663738161,1103,post,200,OK,Grupo de Usuários 1-49,text,true,,248,181,20,20,http://127.0.0.1:8000/post/,1103,0,0
+1542663738928,336,post,200,OK,Grupo de Usuários 1-76,text,true,,248,181,20,20,http://127.0.0.1:8000/post/,336,0,1
+1542663739264,50,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-49,text,false,,2067,0,20,20,http://127.0.0.1:8000/put/,0,0,0
+1542663739264,67,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-76,text,false,,2067,0,20,20,http://127.0.0.1:8000/put/,0,0,0
+1542663677112,62222,get,200,OK,Grupo de Usuários 1-62,text,true,,1337088,115,20,20,http://127.0.0.1:8000/,62221,0,0
+1542663677965,61377,get,200,OK,Grupo de Usuários 1-88,text,true,,1337088,115,20,20,http://127.0.0.1:8000/,61375,0,1
+1542663739314,132,delete,200,OK,Grupo de Usuários 1-49,text,true,,248,249,20,20,http://127.0.0.1:8000/delete/,131,0,0
+1542663739331,209,delete,200,OK,Grupo de Usuários 1-76,text,true,,248,249,19,19,http://127.0.0.1:8000/delete/,209,0,1
+1542663739335,310,post,200,OK,Grupo de Usuários 1-62,text,true,,248,181,18,18,http://127.0.0.1:8000/post/,310,0,0
+1542663739342,303,post,200,OK,Grupo de Usuários 1-88,text,true,,248,181,18,18,http://127.0.0.1:8000/post/,303,0,0
+1542663677405,62252,get,200,OK,Grupo de Usuários 1-71,text,true,,1337088,115,18,18,http://127.0.0.1:8000/,62251,0,1
+1542663739645,45,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-88,text,false,,2067,0,18,18,http://127.0.0.1:8000/put/,0,0,0
+1542663739645,58,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-62,text,false,,2067,0,18,18,http://127.0.0.1:8000/put/,0,0,0
+1542663678242,61469,get,200,OK,Grupo de Usuários 1-97,text,true,,1337088,115,18,18,http://127.0.0.1:8000/,61467,0,0
+1542663739691,65,delete,200,OK,Grupo de Usuários 1-88,text,true,,248,249,18,18,http://127.0.0.1:8000/delete/,65,0,0
+1542663739657,111,post,200,OK,Grupo de Usuários 1-71,text,true,,248,181,17,17,http://127.0.0.1:8000/post/,110,0,1
+1542663739768,28,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-71,text,false,,2067,0,17,17,http://127.0.0.1:8000/put/,0,0,0
+1542663739703,100,delete,200,OK,Grupo de Usuários 1-62,text,true,,248,249,17,17,http://127.0.0.1:8000/delete/,100,0,0
+1542663739711,104,post,200,OK,Grupo de Usuários 1-97,text,true,,248,181,16,16,http://127.0.0.1:8000/post/,104,0,0
+1542663739815,133,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-97,text,false,,2067,0,16,16,http://127.0.0.1:8000/put/,0,0,0
+1542663739803,380,delete,200,OK,Grupo de Usuários 1-71,text,true,,248,249,16,16,http://127.0.0.1:8000/delete/,380,0,1
+1542663739949,526,delete,200,OK,Grupo de Usuários 1-97,text,true,,248,249,15,15,http://127.0.0.1:8000/delete/,526,0,0
+1542663677467,63347,get,200,OK,Grupo de Usuários 1-73,text,true,,1337088,115,14,14,http://127.0.0.1:8000/,63342,0,2
+1542663677504,63425,get,200,OK,Grupo de Usuários 1-74,text,true,,1337088,115,14,14,http://127.0.0.1:8000/,63424,0,1
+1542663740814,149,post,200,OK,Grupo de Usuários 1-73,text,true,,248,181,14,14,http://127.0.0.1:8000/post/,149,0,1
+1542663740963,21,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-73,text,false,,2067,0,14,14,http://127.0.0.1:8000/put/,0,0,0
+1542663676978,64121,get,200,OK,Grupo de Usuários 1-58,text,true,,1337088,115,14,14,http://127.0.0.1:8000/,64119,0,1
+1542663740930,243,post,200,OK,Grupo de Usuários 1-74,text,true,,248,181,14,14,http://127.0.0.1:8000/post/,243,0,0
+1542663741173,0,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-74,text,false,,2067,0,14,14,http://127.0.0.1:8000/put/,0,0,0
+1542663740984,267,delete,200,OK,Grupo de Usuários 1-73,text,true,,248,249,14,14,http://127.0.0.1:8000/delete/,267,0,1
+1542663741099,153,post,200,OK,Grupo de Usuários 1-58,text,true,,248,181,13,13,http://127.0.0.1:8000/post/,153,0,0
+1542663741252,11,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-58,text,false,,2067,0,13,13,http://127.0.0.1:8000/put/,0,0,0
+1542663741173,139,delete,200,OK,Grupo de Usuários 1-74,text,true,,248,249,13,13,http://127.0.0.1:8000/delete/,139,0,1
+1542663741263,116,delete,200,OK,Grupo de Usuários 1-58,text,true,,248,249,12,12,http://127.0.0.1:8000/delete/,116,0,1
+1542663677801,63872,get,200,OK,Grupo de Usuários 1-83,text,true,,1337088,115,11,11,http://127.0.0.1:8000/,63871,0,0
+1542663741673,146,post,200,OK,Grupo de Usuários 1-83,text,true,,248,181,11,11,http://127.0.0.1:8000/post/,146,0,0
+1542663741819,52,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-83,text,false,,2067,0,11,11,http://127.0.0.1:8000/put/,0,0,0
+1542663741872,159,delete,200,OK,Grupo de Usuários 1-83,text,true,,248,249,11,11,http://127.0.0.1:8000/delete/,159,0,0
+1542663676542,65506,get,200,OK,Grupo de Usuários 1-44,text,true,,1337088,115,10,10,http://127.0.0.1:8000/,65505,0,0
+1542663678334,63831,get,200,OK,Grupo de Usuários 1-100,text,true,,1337088,115,10,10,http://127.0.0.1:8000/,63830,0,0
+1542663742048,122,post,200,OK,Grupo de Usuários 1-44,text,true,,248,181,10,10,http://127.0.0.1:8000/post/,122,0,1
+1542663742170,3,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-44,text,false,,2067,0,10,10,http://127.0.0.1:8000/put/,0,0,0
+1542663742165,114,post,200,OK,Grupo de Usuários 1-100,text,true,,248,181,10,10,http://127.0.0.1:8000/post/,114,0,1
+1542663742279,112,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-100,text,false,,2067,0,10,10,http://127.0.0.1:8000/put/,0,0,0
+1542663742173,251,delete,200,OK,Grupo de Usuários 1-44,text,true,,248,249,10,10,http://127.0.0.1:8000/delete/,251,0,0
+1542663742391,627,delete,200,OK,Grupo de Usuários 1-100,text,true,,248,249,9,9,http://127.0.0.1:8000/delete/,627,0,1
+1542663677704,65913,get,200,OK,Grupo de Usuários 1-80,text,true,,1337088,115,8,8,http://127.0.0.1:8000/,65912,0,1
+1542663676787,66959,get,200,OK,Grupo de Usuários 1-52,text,true,,1337088,115,8,8,http://127.0.0.1:8000/,66953,0,0
+1542663677770,66032,get,200,OK,Grupo de Usuários 1-82,text,true,,1337088,115,8,8,http://127.0.0.1:8000/,66030,0,0
+1542663677309,66504,get,200,OK,Grupo de Usuários 1-68,text,true,,1337088,115,8,8,http://127.0.0.1:8000/,66498,0,0
+1542663743617,249,post,200,OK,Grupo de Usuários 1-80,text,true,,248,181,8,8,http://127.0.0.1:8000/post/,249,0,0
+1542663743866,28,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-80,text,false,,2067,0,8,8,http://127.0.0.1:8000/put/,0,0,0
+1542663743747,176,post,200,OK,Grupo de Usuários 1-52,text,true,,248,181,8,8,http://127.0.0.1:8000/post/,176,0,0
+1542663743923,15,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-52,text,false,,2067,0,8,8,http://127.0.0.1:8000/put/,0,0,0
+1542663743813,185,post,200,OK,Grupo de Usuários 1-68,text,true,,248,181,8,8,http://127.0.0.1:8000/post/,185,0,1
+1542663743998,12,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-68,text,false,,2067,0,8,8,http://127.0.0.1:8000/put/,0,0,0
+1542663743802,208,post,200,OK,Grupo de Usuários 1-82,text,true,,248,181,8,8,http://127.0.0.1:8000/post/,208,0,1
+1542663743894,143,delete,200,OK,Grupo de Usuários 1-80,text,true,,248,249,8,8,http://127.0.0.1:8000/delete/,143,0,1
+1542663744010,37,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-82,text,false,,2067,0,7,7,http://127.0.0.1:8000/put/,0,0,0
+1542663743939,122,delete,200,OK,Grupo de Usuários 1-52,text,true,,248,249,7,7,http://127.0.0.1:8000/delete/,122,0,0
+1542663744010,284,delete,200,OK,Grupo de Usuários 1-68,text,true,,248,249,6,6,http://127.0.0.1:8000/delete/,284,0,0
+1542663744048,294,delete,200,OK,Grupo de Usuários 1-82,text,true,,248,249,5,5,http://127.0.0.1:8000/delete/,294,0,0
+1542663677072,67324,get,200,OK,Grupo de Usuários 1-61,text,true,,1337088,115,4,4,http://127.0.0.1:8000/,67321,0,1
+1542663744396,115,post,200,OK,Grupo de Usuários 1-61,text,true,,248,181,4,4,http://127.0.0.1:8000/post/,115,0,1
+1542663744511,32,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-61,text,false,,2067,0,4,4,http://127.0.0.1:8000/put/,0,0,0
+1542663744543,108,delete,200,OK,Grupo de Usuários 1-61,text,true,,248,249,4,4,http://127.0.0.1:8000/delete/,108,0,0
+1542663678024,66629,get,200,OK,Grupo de Usuários 1-90,text,true,,1337088,115,3,3,http://127.0.0.1:8000/,66620,0,1
+1542663744653,98,post,200,OK,Grupo de Usuários 1-90,text,true,,248,181,3,3,http://127.0.0.1:8000/post/,98,0,0
+1542663744752,15,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-90,text,false,,2067,0,3,3,http://127.0.0.1:8000/put/,0,0,0
+1542663744768,278,delete,200,OK,Grupo de Usuários 1-90,text,true,,248,249,3,3,http://127.0.0.1:8000/delete/,278,0,0
+1542663677537,67512,get,200,OK,Grupo de Usuários 1-75,text,true,,1337088,115,2,2,http://127.0.0.1:8000/,67510,0,1
+1542663745049,145,post,200,OK,Grupo de Usuários 1-75,text,true,,248,181,2,2,http://127.0.0.1:8000/post/,145,0,0
+1542663745194,31,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-75,text,false,,2067,0,2,2,http://127.0.0.1:8000/put/,0,0,0
+1542663745225,82,delete,200,OK,Grupo de Usuários 1-75,text,true,,248,249,2,2,http://127.0.0.1:8000/delete/,82,0,0
+1542663676418,68970,get,200,OK,Grupo de Usuários 1-40,text,true,,1337088,115,1,1,http://127.0.0.1:8000/,68969,0,1
+1542663745388,3,post,200,OK,Grupo de Usuários 1-40,text,true,,248,181,1,1,http://127.0.0.1:8000/post/,3,0,1
+1542663745391,0,put,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: 127.0.0.1:8000 failed to respond,Grupo de Usuários 1-40,text,false,,2067,0,1,1,http://127.0.0.1:8000/put/,0,0,0
+1542663745391,3,delete,200,OK,Grupo de Usuários 1-40,text,true,,248,249,1,1,http://127.0.0.1:8000/delete/,3,0,1
