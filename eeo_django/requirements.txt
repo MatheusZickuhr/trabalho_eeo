@@ -23,7 +23,7 @@ netifaces==0.10.4
 olefile==0.46
 packaging==17.1
 pexpect==4.6.0
-Pillow==5.2.0
+Pillow==6.2.0
 psycopg2==2.7.6.1
 pycairo==1.16.2
 pycrypto==2.6.1
