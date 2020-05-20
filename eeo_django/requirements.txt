@@ -11,7 +11,7 @@ distro-info==0.18
 Django==2.1.3
 docutils==0.14
 entrypoints==0.2.3.post3
-httplib2==0.11.3
+httplib2==0.18.0
 idna==2.6
 imagesize==1.0.0
 Jinja2==2.10
